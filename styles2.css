@@ -1,4 +1,4 @@
-<style type="text/css">
+
 * {
   margin: 0px;
   padding: 0px;
@@ -20,9 +20,9 @@ body {
 }
 
 .image img {
-  width: 100%;
-  border-top-right-radius: 5px;
-  border-top-left-radius: 5px;
+  width: 246px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
 
 .title {
@@ -62,4 +62,4 @@ button{
   border-color: royalblue;
   border-radius: 25%;
 }
-</style>
+
